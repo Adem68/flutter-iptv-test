@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ademfurkan.iptv">
+  <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="iptv"
         android:icon="@mipmap/ic_launcher">
